@@ -1,18 +1,5 @@
-# 🌸 Task 1 – Iris Dataset Exploration & Visualization
+# DevelopersHub AI/ML Engineering Internship – Project Repository
 
-This task focuses on understanding the Iris dataset through data exploration and visualization.
+This repository contains all the tasks completed as part of my **AI/ML Engineering Internship at DevelopersHub Corporation**.  
+It includes practical machine learning, data analysis, visualization, deep learning, chatbot development, and API integration projects.
 
-## ✔ What’s Included
-- Dataset loading (pandas/seaborn)
-- Summary statistics
-- Pairplot for feature relationships
-- Histograms for distribution
-- Boxplots for outliers
-- Clean, structured Jupyter Notebook
-
-## 📁 Files
-- iris_exploration.ipynb
-- visualizations/
-  - pairplot.png
-  - histograms.png
-  - boxplots.png
